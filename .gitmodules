@@ -1,0 +1,6 @@
+[submodule "hospital_dashboard"]
+	path = hospital_dashboard
+	url = https://github.com/Bohar-Inc/hospital_dashboard.git
+[submodule "hospital_frontend"]
+	path = hospital_frontend
+	url = https://github.com/Bohar-Inc/hospital_frontend.git
